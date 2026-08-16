@@ -1,3 +1,6 @@
+#this is for leetcode so no need to take input from user
+#sum of two indices in a list that equals a target number
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
